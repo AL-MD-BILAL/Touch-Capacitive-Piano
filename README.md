@@ -59,7 +59,7 @@ The Hardware required for working of the code include
 ```
 
 ## Circuit Diagram
-![Circuit Diagram](https://hackster.imgix.net/uploads/attachments/1523482/arduino_piano_1_4LME68rzCs.png)
+![Circuit Diagram](https://hackster.imgix.net/uploads/attachments/1523482/arduino_piano_1_4LME68rzCs.png?auto=compress%2Cformat&w=740&h=555&fit=max)
 
 
 ## Usage
