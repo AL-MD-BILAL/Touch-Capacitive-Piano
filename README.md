@@ -29,7 +29,7 @@ Type or copy the below code in your terminal to pull the repo files to your comp
 # Clone the repository
 git clone https://github.com/AL-MD-BILAL/Touch-Capacitive-Piano.git
 
-# Change directory to the transposition directory
+# Change directory to the Touch-Capacitive-Piano directory
 cd Touch-Capacitive-Piano
 ```
 
